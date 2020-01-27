@@ -170,7 +170,6 @@
 <url >http://18.191.1.133:8081/nexus/content/repositories/snapshots</url>
 </snapshotRepository>
 </distributionManagement>
-</project>
 
 <distributionManagement>
 
@@ -186,4 +185,8 @@
 <url>http://34.211.154.5:8081/nexus/content/repositories/snapshots</url>
 </snapshotRepository>
 
-</distributionManagement>
+</distributionManagement>	
+	
+</project>
+
+
